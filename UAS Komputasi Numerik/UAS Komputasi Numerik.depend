@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719460824 source:d:\proyek pemrograman game\uas komputasi numerik\main.cpp
+	<iostream>
+	<math.h>
+
